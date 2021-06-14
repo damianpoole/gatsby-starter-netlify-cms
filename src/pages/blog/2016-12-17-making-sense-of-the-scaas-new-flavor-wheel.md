@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Change the title
 date: 2016-12-17T15:04:10.000Z
 description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
+  coffee tasters, has been revised for the first time this year. Testing 123 123
 featuredpost: false
 featuredimage: /img/blogthumbnail.jpg
 tags:
